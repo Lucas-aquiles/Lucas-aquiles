@@ -11,7 +11,7 @@ Welcome to my page!
 [![GitHub Lucas_Manuel](https://img.shields.io/github/followers/LucasManuel?label=follow&style=social)](https://github.com/Lucas-aquiles)
 
 
-### <img src="https://giphy.com/gifs/movie-cute-yALcFbrKshfoY" width="50"> A little more about me...  
+### <img src="https://media1.giphy.com/media/yALcFbrKshfoY/giphy.gif?cid=ecf05e47qzqopyk4yt4uecm2ex8djp5xyd3d3i3m0vhthysu&rid=giphy.gif&ct=g" width="50"> A little more about me...  
 
 ```javascript
 const thai = {
