@@ -11,38 +11,21 @@ Welcome to my page!
 [![GitHub Lucas_Manuel](https://img.shields.io/github/followers/LucasManuel?label=follow&style=social)](https://github.com/Lucas-aquiles)
 
 
-### <img src="https://media1.giphy.com/media/b8RfbQFaOs1rO10ren/giphy.gif" width="200"> A little more about me...  
+### <img src="https://media2.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif?cid=790b76118f20a463272814ed6d7c3d72263bbb9e9fedcd23&rid=giphy.gif&ct=g" width="200"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+const lucas = {
+  pronouns: "Luquitas" | "Manu",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node,Express, Styled-Components,PostgresSQL, Sequelize,Material Design, Bootstrap, Figma],
+  learning: [Typescript],
+  about me : "I'm Lic.Work Social"
+
+  }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
 ⭐️ From [@Lucas_Manuel](https://github.com/Lucas-aquiles)
 
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
