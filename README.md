@@ -6,9 +6,9 @@ Welcome to my page!
 <p><em> FullStack desarrollador 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Twitter: Lucas_Manuel](https://img.shields.io/twitter/follow/Lucas_Manuel?style=social)](https://twitter.com/Manuel_Lu1)
+[![Linkedin: Lucas_Manuel](https://img.shields.io/badge/-lucasManuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-lucas-echegaray/)](https://www.linkedin.com/in/manuel-lucas-echegaray/)
+[![GitHub Lucas_Manuel](https://img.shields.io/github/followers/LucasManuel?label=follow&style=social)](https://github.com/Lucas-aquiles)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -32,13 +32,10 @@ const thai = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@Lucas_Manuel](https://github.com/Lucas-aquiles)
 
 
-<!--
-**Lucas-aquiles/Lucas-aquiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
