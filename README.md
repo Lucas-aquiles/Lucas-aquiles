@@ -2,7 +2,7 @@ Welcome to my page!
 
 
 <h2> Hi, I'm Lucas ! 😄😄😄😄😄 </h2>
-<img align='right' src="https://e7.pngegg.com/pngimages/951/938/png-clipart-programmer-computer-programming-computer-software-allergy-miscellaneous-furniture-thumbnail.png" width="230" border-radius="100">
+<img align='right' src="https://e7.pngegg.com/pngimages/951/938/png-clipart-programmer-computer-programming-computer-software-allergy-miscellaneous-furniture-thumbnail.png" width="230" >
 <p><em> FullStack developer 
 </em></p>
 
