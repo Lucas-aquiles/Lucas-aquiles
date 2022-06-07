@@ -2,7 +2,7 @@ Welcome to my page!
 
 
 <h2> Hi, I'm Lucas ! 😄😄😄😄😄 </h2>
-<img align='right' src="https://e7.pngegg.com/pngimages/951/938/png-clipart-programmer-computer-programming-computer-software-allergy-miscellaneous-furniture-thumbnail.png" width="230">
+<img align='right' src="https://e7.pngegg.com/pngimages/951/938/png-clipart-programmer-computer-programming-computer-software-allergy-miscellaneous-furniture-thumbnail.png" width="230" border-radius="100">
 <p><em> FullStack developer 
 </em></p>
 
@@ -11,7 +11,7 @@ Welcome to my page!
 [![GitHub Lucas_Manuel](https://img.shields.io/github/followers/LucasManuel?label=follow&style=social)](https://github.com/Lucas-aquiles)
 
 
-### <div border-radius="100">  <img src="https://media2.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif?cid=790b76118f20a463272814ed6d7c3d72263bbb9e9fedcd23&rid=giphy.gif&ct=g" width="200"> </div>
+### <div >  <img src="https://media2.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif?cid=790b76118f20a463272814ed6d7c3d72263bbb9e9fedcd23&rid=giphy.gif&ct=g" width="200"> </div>
 <hr/>
 A little more about me...  
 
