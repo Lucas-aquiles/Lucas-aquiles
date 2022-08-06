@@ -20,7 +20,7 @@ const lucas = {
   pronouns: "Luquitas" | "Manu",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node,Express, Styled-Components,PostgresSQL, Sequelize,Material Design, Bootstrap, Figma],
-  learning: [Typescript],
+  learning: [React Native],
   about me : "I'm Lic.Work Social"
 
   }
