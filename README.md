@@ -19,8 +19,8 @@ A little more about me...
 const lucas = {
   pronouns: "Luquitas" | "Manu",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node,Express, PostgresSQL, Sequelize,Firebase,TypesCript,Nextjs,Expo, Styled-Components,Sass,Material Design, Figma],
-  learning: [React Native],
+  tools: [Reactjs, React Native, Redux, Node,Express, PostgresSQL, Sequelize,Firebase,TypesCript,Nextjs,Expo, Styled-Components,Sass,Material Design, Figma],
+  learning: [Next js , Angular],
   about me : "I'm Lic.Work Social"
 
   }
