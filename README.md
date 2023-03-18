@@ -6,8 +6,7 @@ Welcome to my page!
 <p><em> FullStack developer 
 </em></p>
 
-[![Twitter: Lucas_Manuel](https://img.shields.io/twitter/follow/Lucas_Manuel?style=social)](https://twitter.com/Manuel_Lu1)
-[![Linkedin: Lucas_Manuel](https://img.shields.io/badge/-lucasManuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-lucas-echegaray/)](https://www.linkedin.com/in/manuel-lucas-echegaray/)
+
 [![GitHub Lucas_Manuel](https://img.shields.io/github/followers/LucasManuel?label=follow&style=social)](https://github.com/Lucas-aquiles)
 
 
