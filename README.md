@@ -20,7 +20,7 @@ const lucas = {
   code: [Javascript, HTML, CSS],
   tools: [Reactjs, React Native, Redux, Node,Express, PostgresSQL, Sequelize,Firebase,TypesCript,Nextjs,Expo, Styled-Components,Sass,Material Design, Figma],
   learning: [Next js , Angular],
-  about me : "I'm Lic.Work Social, studen Tec. Software"
+  about me : "Lic.Trabajo Social y estudiante de Tec. Desarrollo de Software"
 
   }
 ```
