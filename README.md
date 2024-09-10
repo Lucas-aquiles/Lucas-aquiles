@@ -18,8 +18,8 @@ A little more about me...
 ```javascript
 const lucas = {
   pronouns: "Luquitas" | "Manu",
-  code: [Javascript, HTML, CSS],
-  tools: [Reactjs, React Native, Redux, Node,Express, PostgresSQL, Sequelize,Firebase,TypesCript,Nextjs,Expo, Styled-Components,Sass,Material Design, Figma],
+  code: [Javascript,Python,Java, HTML, CSS],
+  tools: [Reactjs, Flask,  React Native, Redux, Node,Express, PostgresSQL, Sequelize,Firebase,TypesCript,Nextjs,Expo, Styled-Components,Sass,Material Design, Figma],
   learning: [Next js , Angular],
   about me : "Lic.Trabajo Social y estudiante de Tec. Desarrollo de Software"
 
