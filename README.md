@@ -1,7 +1,6 @@
 Welcome to my page!
 
-<h1 > Este contenido no se ha actualizado durante mucho, mucho tiempo</h1>
-<h1>This content hasn't been updated for a long, long time</h1>
+<h3>This content hasn't been updated for a long, long time</h3>
 
 <h2> Hi, I'm Lucas ! 😄😄😄😄😄 </h2>
 <img align='right' src="https://e7.pngegg.com/pngimages/951/938/png-clipart-programmer-computer-programming-computer-software-allergy-miscellaneous-furniture-thumbnail.png" width="230" >
