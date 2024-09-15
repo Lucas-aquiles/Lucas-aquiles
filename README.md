@@ -1,33 +1,60 @@
-Welcome to my page!
-
-<h3>This content hasn't been updated for a long, long time</h3>
-
-<h2> Hi, I'm Lucas ! 😄😄😄😄😄 </h2>
-<img align='right' src="https://e7.pngegg.com/pngimages/951/938/png-clipart-programmer-computer-programming-computer-software-allergy-miscellaneous-furniture-thumbnail.png" width="230" >
-<p><em> FullStack developer 
-</em></p>
+Hi, I'm Lucas Manuel👋
 
 
-[![GitHub Lucas_Manuel](https://img.shields.io/github/followers/LucasManuel?label=follow&style=social)](https://github.com/Lucas-aquiles)
 
+👨‍💻 About Me
+I'm a passionate FullStack Developer with a background in social work and currently studying software development. .
 
-### <div >  <img src="https://media2.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif?cid=790b76118f20a463272814ed6d7c3d72263bbb9e9fedcd23&rid=giphy.gif&ct=g" width="200"> </div>
-<hr/>
-A little more about me...  
+🎓 Degree: Lic. Trabajo Social
+💼 Currently learning: Next.js & Angular
+🚀 Skills:
+Languages: JavaScript, Python, Java, HTML, CSS
+Frameworks & Tools: React, React Native, Flask, Redux, Node.js, Express, PostgreSQL, Firebase, TypeScript, Expo, Styled-Components, Material UI, Sass, Figma
 
-```javascript
+⚡ Tech Stack
+
 const lucas = {
-  pronouns: "Luquitas" | "Manu",
-  code: [Javascript,Python,Java, HTML, CSS],
-  tools: [Reactjs, Flask,  React Native, Redux, Node,Express, PostgresSQL, Sequelize,Firebase,TypesCript,Nextjs,Expo, Styled-Components,Sass,Material Design, Figma],
-  learning: [Next js , Angular],
-  about me : "Lic.Trabajo Social y estudiante de Tec. Desarrollo de Software"
+  pronouns: "he" | "him",
+  languages: ["JavaScript", "Java"],
+  frameworks: ["React", "React Native", "Next.js"],
+  databases: ["PostgreSQL", "Firebase", "Sequelize"],
+  tools: ["Redux", "Node.js", "Express", "Styled-Components", "Figma"],
+  learning: ["Next.js", "Java"],
+  background: "Lic Trabajo Social, estudiante de Tec. en Desarrollo de Software"
+};
 
-  }
-```
 
 
----
+Memoria actualizada
+Para hacer tu README más profesional, podrías estructurarlo mejor, eliminar exceso de emojis y mejorar la presentación. Aquí tienes una sugerencia:
 
-⭐️ From [@Lucas_Manuel](https://github.com/Lucas-aquiles)
+Hi, I'm Lucas 👋
+
+👨‍💻 About Me
+I'm a passionate FullStack Developer with a background in social work and currently studying software development. My goal is to build efficient and scalable applications using the latest technologies.
+
+🎓 Degree: Lic. Trabajo Social
+💼 Currently learning: Next.js & Angular
+🚀 Skills:
+Languages: JavaScript, Python, Java, HTML, CSS
+Frameworks & Tools: React, React Native, Flask, Redux, Node.js, Express, PostgreSQL, Firebase, TypeScript, Expo, Styled-Components, Material UI, Sass, Figma
+⚡ Tech Stack
+javascript
+Copiar código
+const lucas = {
+  pronouns: "he" | "him",
+  languages: ["JavaScript", "Python", "Java"],
+  frameworks: ["React", "React Native", "Next.js", "Flask"],
+  databases: ["PostgreSQL", "Firebase", "Sequelize"],
+  tools: ["Redux", "Node.js", "Express", "Styled-Components", "Figma"],
+  learning: ["Next.js", "Angular"],
+  background: "Licenciado en Trabajo Social, estudiante de Tec. en Desarrollo de Software"
+};
+
+📫 How to Reach Me
+GitHub: @Lucas-aquiles
+LinkedIn: [https://www.linkedin.com/in/manuel-lucas-uliarte-echegaray-0177b7314/]
+
+
+
 
