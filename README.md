@@ -40,7 +40,6 @@ const lucas = {
 <h2>📫 How to Reach Me</h2>
 <ul>
   <li>GitHub: <a href="https://github.com/Lucas-aquiles">@Lucas-aquiles</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/manuel-lucas-uliarte-echegaray-0177b7314/">Manuel Lucas</li>
 </ul>
 
 <hr/>
