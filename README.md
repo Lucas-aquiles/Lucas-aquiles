@@ -8,12 +8,12 @@
 <p>I'm a passionate <strong>FullStack Developer</strong> with a background in social work and currently studying software development.</p>
 
 <ul>
-  <li><strong>🎓 Degree:</strong> Lic. Trabajo Social</li>
+  <li><strong>🎓 Degree:</strong> Lic. Trabajo Social, Tec Desarrollo Software</li>
   <li><strong>💼 Currently learning:</strong> Java</li>
   <li><strong>🚀 Skills:</strong></li>
   <ul>
     <li><strong>Languages:</strong> JavaScript,Typescript, Java, HTML, CSS</li>
-    <li><strong>Frameworks & Tools:</strong> React, React Native, Next,  Redux, Node.js, Express, PostgreSQL, Firebase, TypeScript, Expo, Styled-Components, Material UI, Sass, Figma</li>
+    <li><strong>Frameworks & Tools:</strong> React, React Native, Next,  Redux, Node.js, Express,Nestjs,  PostgreSQL, Firebase, Expo, Styled-Components, Material UI, Sass, Figma</li>
   </ul>
 </ul>
 
