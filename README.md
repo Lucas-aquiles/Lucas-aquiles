@@ -19,22 +19,6 @@
 
 <hr/>
 
-<h2>⚡ Tech Stack</h2>
-
-<pre>
-<code>
-const lucas = {
-  pronouns: "he" | "him",
-  languages: ["JavaScript", "Java"],
-  frameworks: ["React", "React Native", "Next.js",Express, Nest],
-  databases: ["PostgreSQL", "Firebase", "Sequelize"],
-  tools: ["Redux", "Node.js", "Express", "Styled-Components", "Figma"],
-  learning: ["Java"],
-  background: "Licenciado en Trabajo Social, estudiante de Tec. en Desarrollo de Software"
-};
-</code>
-</pre>
-
 <hr/>
 
 <h2>📫 How to Reach Me</h2>
