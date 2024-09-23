@@ -5,7 +5,7 @@
 </a>
 
 <h2>👨‍💻 About Me</h2>
-<p>I'm a passionate <strong>FullStack Developer</strong> with a background in social work and currently studying software development.</p>
+<p>I'm a <strong>FullStack Developer</strong> with a background in social work and currently studying software development.</p>
 
 <ul>
   <li><strong>🎓 Degree:</strong> Lic. Trabajo Social, Tec Desarrollo Software</li>
